@@ -1,0 +1,11 @@
+TODO Lists
+
+Clean up code
+Fix move speed
+Add a better Player model with apendages to place a gun
+Add Gun
+Add projectiles
+Make projectiles do something
+Add health
+Add Death + respawn
+Add Score
